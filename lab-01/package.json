@@ -1,0 +1,14 @@
+{
+  "name": "lab-01",
+  "version": "1.0.0",
+  "description": "Lab 1: Node.js and Express server",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "author": "Parasa Sandeep Samuel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
