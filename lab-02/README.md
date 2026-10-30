@@ -6,10 +6,10 @@
 **Course:** Backend Development Fundamentals
 
 ## Live Link
+backend-development-fundamentals-1x8oln28l-sanjaysamuel333-8237.vercel.app
 
-[ADD YOUR RENDER URL HERE]
 
-The service runs on Render's free plan, which sleeps after 15 minutes without traffic, so the first request can take about a minute. The free plan also does not keep files between restarts, so any books added, changed or deleted through the live link are lost when the service restarts and the database returns to the 10 starting rows.
+The service runs on VERCEL's free plan, which sleeps after 15 minutes without traffic, so the first request can take about a minute. The free plan also does not keep files between restarts, so any books added, changed or deleted through the live link are lost when the service restarts and the database returns to the 10 starting rows.
 
 ## Objective
 
@@ -122,8 +122,4 @@ Every query that uses input from the request uses `?` placeholders.
 
 ![Database after](screenshots/cli-after.png)
 
-## Notes
 
-Problems faced and how I solved them:
-
-- [WRITE YOUR OWN: any real problem you hit while doing the lab, and the fix]
