@@ -96,7 +96,9 @@ Every query that uses input from the request uses `?` placeholders.
 
 ### GET all books
 
-![GET all books](screenshots/get-all.png)
+![GET all books - first page](screenshots/get-all-1.png)
+
+![GET all books - continued](screenshots/get-all-2.png)
 
 ### GET one book
 

@@ -82,7 +82,7 @@ node server-http.js
 
 ### Unknown route (404)
 
-![Unknown route 404](screenshots/not-found.png)
+![Unknown route 404](screenshots/error.png)
 
 ## Notes
 
